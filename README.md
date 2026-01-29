@@ -1,3 +1,6 @@
+<video src="https://github.com/shad0wrider/movielyze/raw/refs/heads/main/movielyze.webm" type=video/webm>
+
+
 ## Problem Statement
 - ### To build an App to visualize movie data in real-time
 ---
