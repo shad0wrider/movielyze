@@ -1,4 +1,4 @@
-<video src=./movielyze.mp4 controls></video>
+<video src="./movielyze.mp4" controls></video>
 
 
 ## Problem Statement
