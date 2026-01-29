@@ -1,4 +1,4 @@
-<video src="https://github.com/shad0wrider/movielyze/raw/refs/heads/main/movielyze.mp4" width="500" controls controlsList="nodownload"></video>
+<video src="https://github.com/shad0wrider/movielyze/raw/refs/heads/main/movielyze.mp4" width="500" controls >Watch the Video</video>
 
 
 ## Problem Statement
