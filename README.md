@@ -1,4 +1,4 @@
-![Demo Video](https://github.com/shad0wrider/movielyze/raw/refs/heads/main/movielyze.mp4)
+<video src=./movielyze.mp4 controls></video>
 
 
 ## Problem Statement
