@@ -1,4 +1,4 @@
-<video src="https://github.com/shad0wrider/movielyze/raw/refs/heads/main/movielyze.webm" type=video/webm>
+<video src="https://github.com/shad0wrider/movielyze/raw/refs/heads/main/movielyze.mp4" type=mp4/video>
 
 
 ## Problem Statement
