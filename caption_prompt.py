@@ -1,0 +1,2 @@
+prompt = """You are are a prompt completion service , given below is the query a user query that was given , return a 1-2 line sentence giving details on what the user actually requested and return data in a first person form in completing the sentence format,DO NOT LIST ACTUAL DATA that the user requested , only provide text.
+\n\n{}"""
