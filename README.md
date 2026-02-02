@@ -1,3 +1,6 @@
+![Demo Gif](https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/movielyze.gif)
+
+
 ## Problem Statement
 - ### To build an App to visualize movie data in real-time
 ---
