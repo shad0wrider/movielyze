@@ -1,8 +1,3 @@
-import streamlit as st
-
-
-st.markdown("""
-
 ## Problem Statement
 - ### To build an App to visualize movie data in real-time
 ---
@@ -23,5 +18,3 @@ st.markdown("""
 2. ``cd movielyze``
 3. ``python3 -m pip install -r requirements.txt``
 4. ``python3 -m streamlit run main.py``
-
-""")
