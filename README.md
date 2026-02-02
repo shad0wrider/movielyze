@@ -1,5 +1,8 @@
 ![Demo Gif](https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/movielyze.gif)
 
+<img src="https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/assets/ai.png" width="300px">
+<img src="https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/assets/bar.png" width="300px">
+<img src="https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/assets/pie.png" width="300px">
 
 ## Problem Statement
 - ### To build an App to visualize movie data in real-time
