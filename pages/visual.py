@@ -4,7 +4,7 @@ import pandas as pd
 import os
 
 
-movieset = pd.read_csv("../dataset.csv")
+movieset = pd.read_csv("./dataset.csv")
 
 genres = movieset["Genre"].drop_duplicates()
 
