@@ -20,11 +20,15 @@ def post_ai(prompt:str,user_query:str):
 
     data["messages"][0]["content"] = prompt
 
-    send = requests.post(url=endpoint,headers=headers,json=data)
+    try:
 
-    resp = send.content.decode("utf-8")
+        send = requests.post(url=endpoint,headers=headers,json=data)
 
-    response = json.loads(resp)["choices"][0]["message"]["content"]
+        resp = send.content.decode("utf-8")
+
+        response = json.loads(resp)["choices"][0]["message"]["content"]
+    except (KeyError,Exception,json.JSONDecodeError) as uaw:
+        response = f"Error Occured in API"
 
     return response
 
