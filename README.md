@@ -3,11 +3,11 @@
 ![Demo Gif](https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/movielyze.gif)
 
 ## Images
-### Ai Page
-![AI Page](https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/assets/ai.png) | 
-### Bar Graph
-![Bar Graph](https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/assets/bar.png) |
-### Pie Chart
+- ### Ai Page
+![AI Page](https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/assets/ai.png)
+- ### Bar Graph
+![Bar Graph](https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/assets/bar.png)
+- ### Pie Chart
 ![Pie Chart](https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/assets/pie.png)
 
 ---
