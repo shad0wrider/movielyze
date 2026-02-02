@@ -1,9 +1,13 @@
+# Demo
+
 ![Demo Gif](https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/movielyze.gif)
 
-<img src="https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/assets/ai.png" width="300px">
-<img src="https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/assets/bar.png" width="300px">
-<img src="https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/assets/pie.png" width="300px">
+## Images
+![AI Page](https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/assets/ai.png) | 
+![Bar Graph](https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/assets/bar.png) |
+![Pie Chart](https://raw.githubusercontent.com/shad0wrider/movielyze/refs/heads/main/assets/pie.png)
 
+---
 ## Problem Statement
 - ### To build an App to visualize movie data in real-time
 ---
